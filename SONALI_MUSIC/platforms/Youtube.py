@@ -17,7 +17,7 @@ import logging
 import aiohttp
 
 # Hardcoded API URL - no more config imports
-NEW_API_URL = "https://apikeyy-zeta.vercel.app/api"
+NEW_API_URL = "https://apikeyy-zeta.vercel.app/api/"
 
 
 def cookie_txt_file():
